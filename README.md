@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dismasdwikiyordan/cute-pet-releases/releases/latest/download/Cute-Pet-Setup.exe">
+  <a href="https://github.com/Great-co/cute-pet-releases/releases/latest/download/Cute-Pet-Setup.exe">
     <b>⬇️ DOWNLOAD CUTE PET (Windows)</b>
   </a>
 </p>
